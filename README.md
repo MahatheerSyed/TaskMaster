@@ -1,4 +1,4 @@
-# rest-express
+# TaskMaster
 
 A full-stack task management application built with React, Express, and PostgreSQL. This project provides a secure and efficient way to manage tasks with user authentication, a modern React frontend, and a robust Express backend API.
 
